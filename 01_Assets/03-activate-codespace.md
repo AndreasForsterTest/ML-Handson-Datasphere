@@ -10,8 +10,8 @@ In this guide, you'll create a codespace from this repository and explore some e
 
 1. Navigate to the `https://github.com/YOUR_USER/ML-Handson-Datasphere` repository.
 2. Click **Code**, then click **Codespaces** and then the link under *on current branch*, probably called "main"
-3. A codespace for the repository will open up, on the left you'll find you file, forked in the step before, now available and ready to execute.
-4. On the file explorer on the left open >  exercises > LucerneElectricity.csv and download with a right click on the file "Download ..."
+3. A codespace for the repository will open up, on the left you'll find your files, forked in the step before, for use in the hands-on exercises.
+4. On the file explorer on the left go to >  exercises > LucerneElectricity.csv and download the file with a right click on the file "Download ..."
 5. Leave the codespace open and switch to [main description (README.md](../README.md) in a new tab where you'll start with exercises.
 
 <br>
